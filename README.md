@@ -1,1 +1,4 @@
-Personal envelope budgeting app. 
+# BUDGET : personal envelope budgeting app
+# initialize the project folder as a git repository
+git init
+ 
